@@ -1,0 +1,1 @@
+function xdot = pred_prey(t, x1. x2, a, b, c, d) 
